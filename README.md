@@ -1,2 +1,2 @@
-# vue-vite-starterkit
-Repositório com setups para você trabalhar com Vue + Vite
+# Vue Starter Kit
+Repositório com setups para você trabalhar com VueJS
