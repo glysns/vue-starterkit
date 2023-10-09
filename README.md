@@ -22,4 +22,4 @@ Pé-de-meia é um projeto simples de simulação de aplicação financeira basea
 
 |Diretório|Recursos|Descrição|
 |----------|---------|-------|
-|[vue-cdn](https://github.com/glysns/backend-stater-kit/tree/main/spring/springboot-crud-api)|Aqui explorarmos os conceitos essenciais para começar a desenvolver em Vue como não precisar configurar o Nodejs, noções de options api e composition api.|
+|[vue-cdn](https://github.com/glysns/backend-stater-kit/tree/main/spring/springboot-crud-api)|NO NodeJS, Sintaxe, Options API vs Composition API|Aqui explorarmos os conceitos essenciais para começar a desenvolver em Vue como não precisar configurar o Nodejs, noções de options api e composition api.|
