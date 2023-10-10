@@ -6,6 +6,10 @@
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
+#### Sites oficiais
+- [Vue3](https://vuejs.org/)
+- [VueX](https://vuex.vuejs.org/)
+
 
 # Vue3 Starter Kit
 Repositório com setups para você trabalhar com VueJS versão 3.
