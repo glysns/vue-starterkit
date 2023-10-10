@@ -9,6 +9,8 @@
 #### Sites oficiais
 - [Vue3](https://vuejs.org/)
 - [VueX](https://vuex.vuejs.org/)
+- [Pinia](https://pinia.vuejs.org/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 
 # Vue3 Starter Kit
