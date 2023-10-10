@@ -7,8 +7,8 @@
 - [Gleyson Sampaio](https://github.com/glysns)
 
 
-# Vue Starter Kit
-Repositório com setups para você trabalhar com VueJS
+# Vue3 Starter Kit
+Repositório com setups para você trabalhar com VueJS versão 3.
 
 Por que é tão difícil aprender frontend ?
 
