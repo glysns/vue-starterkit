@@ -1,4 +1,5 @@
 {
     "welcome": "Welcome",
-    "language": "en"
+    "language": "en",
+    "selectLanguage":"Select Language"
   }

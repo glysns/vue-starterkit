@@ -7,8 +7,9 @@ import { ref } from 'vue'
   const selected = ref('')
 
   const languages = ref([
-    { language: 'en', title: 'English' },
-    { language: 'es', title: 'Español' }
+  { language: 'pt_BR', title: 'Portugês BR' },  
+  { language: 'en', title: 'English' }
+   
   ])
 
   const changeLocale = (locale) => {
@@ -23,8 +24,11 @@ import { ref } from 'vue'
   <br>
   Idioma: {{ $t('language') }}
 
-<select @change="changeLocale(selected)">
-  <option disabled value="">Selecione um Idioma</option>
+  <br>
+  <h2> {{  $t('selectLanguage') }} </h2>
+  
+<select v-model="selected" @change="changeLocale(selected)">
+  <option disabled value="">{{  $t('selectLanguage') }}</option>
   <option v-for="lang in languages" :key="lang.language" :value="lang.language">{{ lang.title  }}</option>
 </select>
 
