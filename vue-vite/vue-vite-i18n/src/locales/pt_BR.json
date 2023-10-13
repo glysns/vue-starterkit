@@ -1,5 +1,7 @@
 {
+ "messages":{
   "welcome": "Bem-vindo",
-  "language": "pt_BR",
+  "language": "pt-BR",
   "selectLanguage":"Selecione um Idioma"
+ }
 }

@@ -1,5 +1,7 @@
 {
+  "messages":{
     "welcome": "Welcome",
-    "language": "en",
+    "language": "en-US",
     "selectLanguage":"Select Language"
   }
+}
