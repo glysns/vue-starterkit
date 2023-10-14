@@ -30,3 +30,20 @@ Pé-de-meia é um projeto simples de simulação de aplicação financeira basea
 |Diretório|Recursos|Descrição|
 |----------|---------|-------|
 |[vue-cdn](https://github.com/glysns/vue-starterkit/tree/main/vue-cdn)|NO NodeJS, Sintaxe, Options API vs Composition API|Aqui explorarmos os conceitos essenciais para começar a desenvolver em Vue como não precisar configurar o Nodejs, noções de options api e composition api.|
+
+Sintaxe
+
+JS + Options API
+JS + Composition API
+
+TS + Options API
+TS + Composition API
+
+Engine Import and Loaders
+
+CDN
+Vue cli
+Vite
+Nuxt
+
+Reactivity - Detecção e Monitoramente das Alterações de Estado
