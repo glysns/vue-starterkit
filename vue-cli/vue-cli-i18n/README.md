@@ -24,3 +24,4 @@ npm build
 #### Referências
 
 1. https://vue-i18n.intlify.dev/guide/migration/breaking.html
+2. https://vue-i18n.intlify.dev/guide/installation
