@@ -25,6 +25,7 @@ Por que é tão difícil aprender frontend ?
 5. vue use
 6. i18n
 7. nuxt
+8. reactivity
 
 Bem-vindo a mais um projeto proporcionado pela Digytal para te auxiliar e te dar um direcionamento para criar suas primeiras aplicações front-end utilizando Vue JS.
 Este repositório consiste em oferecer um MVP ou conteúdos resumidos em forma de template para que você possa usá-lo como um modelo básico de arquitetura para desenvolvimento de projetos web explorando os recursos do framework Vue JS.
@@ -44,7 +45,5 @@ Abaixo segue uma ordem cronológico da evolução de um mesmo projeto de acordo 
 - [VueX](https://vuex.vuejs.org/)
 - [Pinia](https://pinia.vuejs.org/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
-
-
-
-Reactivity - Detecção e Monitoramente das Alterações de Estado
+- [Vue Reactivity](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)
+  * Reactivity - Detecção e Monitoramente das Alterações de Estado
