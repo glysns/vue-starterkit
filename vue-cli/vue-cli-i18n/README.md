@@ -4,6 +4,11 @@
 ```
 npm install
 ```
+### Adicionando a dependência i18n V9
+
+```
+npm install vue-i18n@9
+```
 
 ### Compiles and hot-reloads for development
 ```
@@ -15,5 +20,7 @@ npm serve
 npm build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#### Referências
+
+1. https://vue-i18n.intlify.dev/guide/migration/breaking.html

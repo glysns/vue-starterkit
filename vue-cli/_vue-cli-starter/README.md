@@ -2,14 +2,15 @@
 
 ### Setup
 
+Instalando o `vue-cli`
+
+```
+npm install -g @vue/cli
+```
+Instalando as depêndencias
+
 ```
 npm install
-```
-
-### Adicionando a dependência i18n V9
-
-```
-npm install vue-i18n@9
 ```
 
 ### Compilação e execução local
@@ -26,4 +27,4 @@ npm build
 
 #### Referências
 
-1. https://vue-i18n.intlify.dev/guide/migration/breaking.html
+1. https://cli.vuejs.org/#getting-started
