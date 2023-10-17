@@ -11,13 +11,13 @@ Repositório com setups para você trabalhar com VueJS versão 3.
 
 Por que é tão difícil aprender frontend ?
 
-## Requisitos Básicos
+## O que você precisa saber ?
 1. Noções de HTML
 2. Noções de Java Script Vanilla
 3. Noções de Type Script
 4. Noções de Node JS
 
-## O que você precisa aprender de agora em diante
+## O que você precisa aprender em breve ?
 1. async / await
 2. axios
 3. vuex
