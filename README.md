@@ -6,14 +6,6 @@
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
-#### Sites oficiais
-- [Vue3](https://vuejs.org/)
-- [vue-cli](https://cli.vuejs.org/)
-- [VueX](https://vuex.vuejs.org/)
-- [Pinia](https://pinia.vuejs.org/)
-- [Axios](https://axios-http.com/ptbr/docs/intro)
-
-
 # Vue3 Starter Kit
 Repositório com setups para você trabalhar com VueJS versão 3.
 
@@ -30,6 +22,14 @@ Abaixo segue uma ordem cronológico da evolução de um mesmo projeto de acordo 
 |[vue-cdn](https://github.com/glysns/vue-starterkit/tree/main/vue-cdn)|NO NodeJS, Sintaxe, Options API vs Composition API|Aqui explorarmos os conceitos essenciais para começar a desenvolver em Vue como não precisar configurar o Nodejs, noções de options api e composition api.|
 |[vue-cli](https://github.com/glysns/vue-starterkit/tree/main/vue-cli)|NodeJS e NPM |Aqui explorarmos os conceitos essenciais para desfrutar dos recursos do vue-cli no que se refere às configurações de seu projeto|
 |[vue-vite](https://github.com/glysns/vue-starterkit/tree/main/vue-vite)|NodeJS + NPM + Vite |Desfrute da alta produtivido de desenvolvimento utilizando o Vite, uma ferramenta de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos de web modernos|
+
+
+#### Sites oficiais
+- [Vue3](https://vuejs.org/)
+- [vue-cli](https://cli.vuejs.org/)
+- [VueX](https://vuex.vuejs.org/)
+- [Pinia](https://pinia.vuejs.org/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 
 Sintaxe e Pré - Requisitos
