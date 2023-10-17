@@ -24,14 +24,13 @@ Este repositório consiste em oferecer um MVP ou conteúdos resumidos em forma d
 
 Abaixo segue uma ordem cronológico da evolução de um mesmo projeto de acordo com que for aprimorando de conhecimento em seus estudos.
 
-### PÉ de Meia
-Pé-de-meia é um projeto simples de simulação de aplicação financeira baseado na lógica de que aplicações diárias receberã uma alíquota específica de rentabilidade.
 
 |Diretório|Recursos|Descrição|
 |----------|---------|-------|
 |[vue-cdn](https://github.com/glysns/vue-starterkit/tree/main/vue-cdn)|NO NodeJS, Sintaxe, Options API vs Composition API|Aqui explorarmos os conceitos essenciais para começar a desenvolver em Vue como não precisar configurar o Nodejs, noções de options api e composition api.|
 
-Sintaxe
+
+Sintaxe e Pré - Requisitos
 
 JS + Options API
 JS + Composition API
