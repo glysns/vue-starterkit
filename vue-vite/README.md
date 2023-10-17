@@ -13,4 +13,4 @@ Este repositório tem por objetivo explorar os recursos oferecidos pelo Vite, é
 
 |Diretório|Recursos|Descrição|
 |----------|---------|-------|
-|[_vue-vite-starter](https://github.com/glysns/vue-starterkit/tree/main/vue-cdn)|NO NodeJS, Sintaxe, Options API vs Composition API|Aqui explorarmos os conceitos essenciais para começar a desenvolver em Vue como não precisar configurar o Nodejs, noções de options api e composition api.|
+|[_vue-vite-starter]([https://github.com/glysns/vue-starterkit/tree/main/vue-cdn](https://github.com/glysns/vue-starterkit/tree/main/vue-vite/_vue-vite-starter))|Vue3 + Vite|Exploque os recursos básicos desta fantástica ferramenta|
