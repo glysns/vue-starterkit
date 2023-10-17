@@ -1,4 +1,4 @@
-# Vue 3 + Cli + i18n V9
+# Vue 3 + Vite + i18n V9
 
 ### Setup
 
@@ -14,7 +14,7 @@ npm install vue-i18n@9
 
 ### Compilação e execução local
 ```
-npm serve
+npm dev
 ```
 
 ### Compilação e mimificação para produção

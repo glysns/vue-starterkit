@@ -1,4 +1,4 @@
-# vue-cli-i18n
+# Vue 3 + Cli + i18n
 
 ## Project setup
 ```
