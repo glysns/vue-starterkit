@@ -9,7 +9,7 @@ const changeLocale = (locale) => {
 </script>
 
 <template>
-  <h2>i18n v9 - Config</h2>
+  <h2>Vue + Vite + i18n v9</h2>
 
   <h2>{{ $t("selectLanguage") }}</h2>
   <select v-model="selected" @change="changeLocale(selected)">
