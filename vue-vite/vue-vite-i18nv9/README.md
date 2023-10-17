@@ -26,3 +26,4 @@ npm build
 #### Referências
 
 1. https://vitejs.dev/guide/
+1. https://vue-i18n.intlify.dev/guide/installation.html
