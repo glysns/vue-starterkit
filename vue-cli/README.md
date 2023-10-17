@@ -6,8 +6,10 @@
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
 
-# Vue3 Vite Starter Kit
-Repositório com setups para você trabalhar com VueJS versão 3 + os recursos do Vite.
+# Vue3 Cli Starter Kit
+Repositório com setups para você trabalhar com VueJS versão 3 + Vue Cli.
+
+> O `vue-cli` acelera os passos necessários para poderes programar em Vus/JavaScript. Para usar o Vue.js não precisas de usar o vue-cli, mas ajuda pois evita teres de configurar compilador, verificadores de código (ESLint), dependências e decidir estruturas de pastas.
 
 Este repositório tem por objetivo explorar os recursos oferecidos pelo Vite, é uma ferramenta de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos de web modernos
 
