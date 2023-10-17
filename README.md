@@ -28,6 +28,7 @@ Abaixo segue uma ordem cronológico da evolução de um mesmo projeto de acordo 
 |Diretório|Recursos|Descrição|
 |----------|---------|-------|
 |[vue-cdn](https://github.com/glysns/vue-starterkit/tree/main/vue-cdn)|NO NodeJS, Sintaxe, Options API vs Composition API|Aqui explorarmos os conceitos essenciais para começar a desenvolver em Vue como não precisar configurar o Nodejs, noções de options api e composition api.|
+|[vue-cli](https://github.com/glysns/vue-starterkit/tree/main/vue-cli)|NodeJS e NPM |Aqui explorarmos os conceitos essenciais para desfrutar dos recursos do vue-cli no que se refere às configurações de seu projeto|
 
 
 Sintaxe e Pré - Requisitos
