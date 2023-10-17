@@ -11,12 +11,20 @@ Repositório com setups para você trabalhar com VueJS versão 3.
 
 Por que é tão difícil aprender frontend ?
 
-## Requisitos
-
+## Requisitos Básicos
 1. Noções de HTML
 2. Noções de Java Script Vanilla
 3. Noções de Type Script
 4. Noções de Node JS
+
+## O que você precisa aprender de agora em diante
+1. async / await
+2. axios
+3. vuex
+4. pinia
+5. vue use
+6. i18n
+7. nuxt
 
 Bem-vindo a mais um projeto proporcionado pela Digytal para te auxiliar e te dar um direcionamento para criar suas primeiras aplicações front-end utilizando Vue JS.
 Este repositório consiste em oferecer um MVP ou conteúdos resumidos em forma de template para que você possa usá-lo como um modelo básico de arquitetura para desenvolvimento de projetos web explorando os recursos do framework Vue JS.
