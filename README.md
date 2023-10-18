@@ -9,6 +9,8 @@
 # Vue3 Starter Kit
 Repositório com setups para você trabalhar com VueJS versão 3.
 
+> NOTA: Os exemplos que adotaram o uso do TypeScript terão um sufixo `-ts`.
+
 Por que é tão difícil aprender frontend ?
 
 ## O que você precisa saber ?

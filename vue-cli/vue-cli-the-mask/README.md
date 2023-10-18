@@ -13,6 +13,13 @@ Instalando as depêndencias
 npm install
 ```
 
+### Instalando a dependência Vue The Mask
+```
+npm i -S vue-the-mask
+```
+
+> Para gerar o mínimo de impacto no seu projeto, iremos adotar o uso de diretivas, veja o arquivo `main.js`.
+
 ### Compilação e execução local
 ```
 npm serve
@@ -27,4 +34,4 @@ npm build
 
 #### Referências
 
-1. https://cli.vuejs.org/#getting-started
+1. https://vuejs-tips.github.io/vue-the-mask/
