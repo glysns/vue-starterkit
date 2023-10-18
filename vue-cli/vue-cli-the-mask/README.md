@@ -18,6 +18,11 @@ npm install
 npm i -S vue-the-mask
 ```
 
+### Instalando a dependência Vue Mask Money
+```
+npm i v-money3
+```
+
 > Para gerar o mínimo de impacto no seu projeto, iremos adotar o uso de diretivas, veja o arquivo `main.js`.
 
 ### Compilação e execução local
@@ -35,3 +40,4 @@ npm build
 #### Referências
 
 1. https://vuejs-tips.github.io/vue-the-mask/
+1. https://github.com/vuejs-tips/v-money

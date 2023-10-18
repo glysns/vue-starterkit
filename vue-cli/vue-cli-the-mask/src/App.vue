@@ -40,6 +40,20 @@
     </label>
 
     <br>
+    <label>
+      DATA:
+      <input type="text" v-model="data" v-mask="'##/##/##'"  />
+      DATA:{{ data }}
+    </label>
+
+    <br>
+    <label>
+      MOEDA:
+      <input v-model.lazy="moeda" v-money="moneyMask" />
+      MOEDA:{{ data }}
+    </label>
+
+    <br>
     <h1>Exibindo os campos sem mascara</h1>
     <button @click="exibirDadosSemMascara()">Atualizar</button>
     <p>{{ resultado }}</p>
@@ -54,6 +68,7 @@ export default {
     //variaveis da intancia do objeto que representam dados mediante a interação do usuário
     return {
       cpf:'',
+      data:'',
       cnpj:'',
       cpfCnpj:'',
       telefone:'',
@@ -61,10 +76,17 @@ export default {
       telefoneCeluar:'',
       decimal:'',
       moeda:'',
-      resultado:''
+      resultado:'',
+      moneyMask: {
+          decimal: ',',
+          thousands: '.',
+          prefix: 'R$ ',
+          precision: 2
+      }
     };
   },
   methods: {
+      //criar uma função para conversão de data: 17/03/23 -> 2023/03/17
       //este método poderia ser um mixin no vue
       unmask(text) {
         const defaultDelimiters = /[-!$%^&*()_+|~=`{}[\]:";'<>?,./\\ ]/
@@ -89,7 +111,7 @@ export default {
       exibirDadosSemMascara(){
         this.resultado = 'resultado....';
         const cpfRaw = this.unmask(this.cpf);
-        this.resultado = `CPF: ${cpfRaw}, CNPJ ${this.unmask(this.cnpj)}, TELEFONE ${this.unmask(this.telefone)}, CELULAR ${this.unmask(this.celular)}`;
+        this.resultado = `CPF: ${cpfRaw}, CNPJ ${this.unmask(this.cnpj)}, TELEFONE ${this.unmask(this.telefone)}, CELULAR ${this.unmask(this.celular)} , MOEDA ${this.unmask(this.moeda)}`;
       }
     },
 };
