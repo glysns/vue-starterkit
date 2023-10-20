@@ -18,6 +18,8 @@ npm install
 npm serve
 ```
 
+> http://localhost:8080/
+
 ### Compilação e mimificação para produção
 
 ```

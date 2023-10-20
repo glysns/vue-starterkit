@@ -11,6 +11,8 @@ npm install
 npm dev
 ```
 
+> http://localhost:5173/
+
 ### Compilação e mimificação para produção
 
 ```
