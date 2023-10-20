@@ -1,26 +1,29 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <!-- É necessário que existe somente um elemento RAIZ -->
+  <div>
+
+    <h1> {{ variavel }}</h1>
+    <input type="text" v-model="variavel" />
+  
+  </div>
+  
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
+  props: {
+    propriedadeExterna: String
+  },
+  data() {
+    return {
+      variavel:'gleyson'
+    };
+  },
 }
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+<!-- Adicione "scoped" para limitir o CSS somente para este componente -->
+<style scoped>
+
 </style>

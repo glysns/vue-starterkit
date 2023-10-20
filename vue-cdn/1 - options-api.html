@@ -4,18 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Exercitando a sintaxe da Options Api em Vue JS</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
   </head>
   <body>
   
     <div id="app"> <!-- NÃO ESQUEÇA DE MARCAR O ELEMENTO PAI ou ROOT-->
-      Uma variável : {{ variavel }} <strong @click="limpar()">Limpar?</strong>
+      Uma variável dinâmica:  <span style="color: blue;"> {{ variavel }} </span> <strong @click="limpar()">Limpar?</strong>
       <input type="text" v-model="variavel" />
 
       <button @click="calcularAplicacao()">Botão</button>
 
     </div>
-
-  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script>
       const { createApp } = Vue;
       createApp({
