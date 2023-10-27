@@ -1,12 +1,14 @@
 <template>
     <div>
-       Login
-       <input/>
+       Cadastros 10
     </div>
 </template>
 
 <script setup>
+
+/*
 definePageMeta({
-    layout:"auth"
+    middleware:"auth"
 })
+*/
 </script>
