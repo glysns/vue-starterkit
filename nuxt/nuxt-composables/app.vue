@@ -9,7 +9,6 @@
 </template>
 
 <script setup lang="ts">
-  import useFormatacao from './composables/useFormatacao';
   const {upper, lower} = useFormatacao();
   const palavra = ref('AbCd')
   
