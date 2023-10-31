@@ -1,6 +1,7 @@
 <template>
     <div>
-      
+      <NuxtLink to="/enums" style="color: red;"> enums api local server</NuxtLink>
+
       <div v-for="i in products">
         <NuxtLink :to="`/products/${i.id}`" style="color:blue"> {{ i.id }} -- {{ i.title }}</NuxtLink>
         {{ i.description }}
